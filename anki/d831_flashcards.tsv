@@ -1,0 +1,12 @@
+What does CIA stand for in cybersecurity?	Confidentiality, Integrity, and Availability	D831 CIA
+What is prompt injection?	An attack where malicious instructions are inserted into model input to alter behavior.	D831 LLM Security
+What is data poisoning in AI?	Corrupting training data so a model learns harmful or incorrect behavior.	D831 AI Threats
+What is model drift?	Performance degradation over time as real-world data changes from training data.	D831 AI Ops
+What is least privilege?	Granting users and systems only the minimum access required for their tasks.	D831 Security Principles
+What is multifactor authentication (MFA)?	Using two or more independent factors to verify identity.	D831 Identity
+What is adversarial example in machine learning?	Input intentionally modified to cause a model to make an incorrect prediction.	D831 AI Threats
+What is zero trust?	A security approach that assumes no implicit trust and continuously verifies access.	D831 Architecture
+What does PII mean?	Personally Identifiable Information.	D831 Data Protection
+What is explainability in AI?	The ability to understand and communicate why a model produced a result.	D831 Responsible AI
+What is a false positive?	A security alert that incorrectly flags benign activity as malicious.	D831 Detection
+What is a false negative?	A security event that occurs but is not detected by controls.	D831 Detection
