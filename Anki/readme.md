@@ -2,6 +2,8 @@
 
 The base of these cards (111 cards) was essentially imported from a public Quizlet and augmented with HTML to highlight key terms and concepts. ChatGPT added 22 cards—based on its interpretation of official course material—to the original import. An additional 8 cards were created to cover gap areas identified by Gemini.
 
+I would not do the subdeck "Textbook-based Flashcards (more depth)" unless you really bomb the PA/OA. There's just too many cards there for a 2 credit course. And the course, in many areas, was so repetitive that many cards are just different "flavors" of the same concepts and ideas.
+
 **Original creation date:** September 4, 2026
 
 ---
